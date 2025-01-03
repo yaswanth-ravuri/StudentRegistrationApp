@@ -1,4 +1,4 @@
-# crudapp
+# Student Registration CRUD Application
 Student Registration Application Demonstrating CRUD operations with REST & Graphql
 
 Technologies used : 
